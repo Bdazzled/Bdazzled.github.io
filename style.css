@@ -2,6 +2,10 @@ html {
 	background: url(/images/bedazzled-background.png);
 }
 
+#grad {
+  background-image: linear-gradient(180deg, red, yellow);
+}
+
 h1 {
 	color: #000000;
 	text-align: center;
