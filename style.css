@@ -1,8 +1,5 @@
 html {
-}
-
-#grad {
-  background-image: linear-gradient(180deg, black, red);
+	background-image: linear-gradient(180deg, black, red);
 }
 
 h1 {
