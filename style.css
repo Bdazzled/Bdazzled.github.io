@@ -73,11 +73,12 @@ table {
 }
 
 html {
-	background: linear-gradient(#e66465, #9198e5);
+	background: linear-gradient(#FF0000, #000000);
+	background-repeat: no-repeat;
+	margin: 0 auto;
 }
 
 h1 {
-	background-color: #FF0000;
 	color: #000000;
 	text-align: center;
 	font-size: 40px;
@@ -100,7 +101,6 @@ a:hover {
 footer {
 	font-size: 15px;
 	color: #000000;
-	background-color: #FFFFFF;
 	text-decoration: none;
 	margin: 0 auto 0 auto;
 	text-align: center;
