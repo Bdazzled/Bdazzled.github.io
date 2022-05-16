@@ -51,7 +51,7 @@ table {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #0000FF;
+  color: #630101;
 }
 
 .hover-underline-animation:after {
@@ -87,16 +87,11 @@ h1 {
 }
 
 a {
-	font-size: 15px;
+	font-size: 20px;
 	color: #000000;
 	text-decoration: none;
 }
 
-a:hover {
-	font-size: 15px;
-	color: #000000;
-	text-decoration: none;
-}
 
 footer {
 	font-size: 15px;
