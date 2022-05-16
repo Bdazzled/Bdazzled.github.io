@@ -51,7 +51,7 @@ table {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #FFFFFF;
+  color: #0000FF;
 }
 
 .hover-underline-animation:after {
@@ -73,8 +73,7 @@ table {
 }
 
 html {
-	color: #FFFFFF;
-	background: linear-gradient(#FF0000, #000000);
+	color: #000000;
 	background-repeat: no-repeat;
 	margin: 0 auto;
 }
@@ -101,7 +100,7 @@ a:hover {
 
 footer {
 	font-size: 15px;
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: none;
 	margin: 0 auto 0 auto;
 	text-align: center;
