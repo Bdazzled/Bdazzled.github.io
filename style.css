@@ -51,7 +51,7 @@ table {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #0087ca;
+  color: #0000FF;
 }
 
 .hover-underline-animation:after {
@@ -62,17 +62,18 @@ table {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #0087ca;
-  transform-origin: bottom right;
+  background-color: #FF0000;
+  transform-origin: center;
   transition: transform 0.25s ease-out;
 }
 
 .hover-underline-animation:hover:after {
   transform: scaleX(1);
-  transform-origin: bottom left;
+  transform-origin: center;
 }
 
 h1 {
+	background-color: #FF0000;
 	color: #000000;
 	text-align: center;
 	font-size: 40px;
@@ -82,13 +83,13 @@ h1 {
 
 a {
 	font-size: 15px;
-	color: #FFCCCC;
+	color: #000000;
 	text-decoration: none;
 }
 
 a:hover {
 	font-size: 15px;
-	color: #000000;
+	color: #0000FF;
 	text-decoration: none;
 }
 
