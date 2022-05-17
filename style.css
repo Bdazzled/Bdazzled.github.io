@@ -122,8 +122,6 @@ nav a:hover {
 }
 
 h1 {
-	background-color: #000000;
-	border: 10px ridge #FF0000;
 	color: #FF0000;
 	font: normal 40px 'Roboto', sans-serif;
 	padding-bottom: 15px;
@@ -152,8 +150,6 @@ a:hover {
 
 
 footer {
-	background-color: #000000;
-	border: 10px ridge #FF0000;
 	font-size: 15px;
 	color: #FF0000;
 	font: normal 15px 'Roboto', sans-serif;
