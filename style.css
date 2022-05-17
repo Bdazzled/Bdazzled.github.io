@@ -102,13 +102,13 @@ table {
 
 html {
 	background-color: #FFFFFF;
-	color: #FF0000;
+	color: #000000;
 	background-repeat: no-repeat;
 	margin: 0 10px;
 }
 
 nav a {
-	color: #FF0000;
+	color: #620C06;
 	font-family: 'Roboto', sans-serif;
 	padding-left: 610px;
 	padding-right: 583px;
