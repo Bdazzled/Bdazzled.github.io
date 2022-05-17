@@ -101,7 +101,7 @@ table {
 }
 
 html {
-	background-color: #000000;
+	background-color: #FFFFFF;
 	color: #FF0000;
 	background-repeat: no-repeat;
 	margin: 0 10px;
@@ -147,7 +147,7 @@ a {
 }
 
 a:hover {
-	text-decoration: underline;	
+	text-decoration: underline;
 }
 
 
