@@ -80,8 +80,8 @@ html {
 
 h1 {
 	color: #000000;
-	font-size: 40px;
-	font-family: 'Roboto', sans-serif;
+	font: normal 40px 'Roboto', sans-serif;
+	margin: 0 10px;
 	padding: 10px;
 	text-align: center;
 	text-decoration: none;
