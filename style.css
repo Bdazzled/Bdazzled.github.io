@@ -79,7 +79,9 @@ html {
 }
 
 h1 {
-	color: #000000;
+	background-color: #000000;
+	border: 10px ridge #FF0000;
+	color: #FF0000;
 	font: normal 40px 'Roboto', sans-serif;
 	padding: 10px;
 	text-align: center;
