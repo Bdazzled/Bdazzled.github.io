@@ -73,7 +73,8 @@ table {
 }
 
 html {
-	color: #000000;
+	background-color: #000000;
+	color: #FF0000;
 	background-repeat: no-repeat;
 	margin: 0 10px;
 }
