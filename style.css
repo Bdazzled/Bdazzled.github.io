@@ -107,8 +107,17 @@ html {
 	margin: 0 10px;
 }
 
-nav {
-	
+nav a {
+	color: #FF0000;
+	padding-left: 610px;
+	padding-right: 583px;
+	text-align: center;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-align: center;
+	text-decoration: underline;
 }
 
 h1 {
@@ -118,7 +127,7 @@ h1 {
 	font: normal 40px 'Roboto', sans-serif;
 	padding-bottom: 15px;
 	padding-left: 348px;
-	padding-right: 348px;
+	padding-right: 349px;
 	padding-top: 15px;
 	text-align: center;
 	text-decoration: none;
