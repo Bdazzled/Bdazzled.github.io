@@ -51,7 +51,7 @@ table {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #630101;
+  color: #FF0000;
 }
 
 .hover-underline-animation:after {
@@ -59,10 +59,10 @@ table {
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 2px;
+  height: 5px;
   bottom: 0;
   left: 0;
-  background-color: #E00F99;
+  background-color: #FF0000;
   transform-origin: center;
   transition: transform 0.25s ease-out;
 }
@@ -84,7 +84,7 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 	padding: 10px;
 	text-align: center;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 h2 {
@@ -109,5 +109,5 @@ footer {
 	margin: 0 auto 0 auto;
 	text-align: center;
 	text-decoration: none;
-	padding: 5px;
+	padding: 10px;
 }
